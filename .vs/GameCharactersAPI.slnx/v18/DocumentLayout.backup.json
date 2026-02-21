@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|c:\\users\\tdm_c\\source\\repos\\gamecharactersapi\\gamecharactersapi\\gamecharactersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{262517BC-5CDE-46DB-3610-328C6400B877}|GameCharactersAPI\\GameCharactersAPI.csproj|solutionrelative:gamecharactersapi\\gamecharactersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\.gitignore",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\.gitignore",
+              "RelativeToolTip": "GameCharactersAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-20T22:28:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GameCharactersAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:27:35.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharactersController.cs",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Controllers\\CharactersController.cs",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\Controllers\\CharactersController.cs",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Controllers\\CharactersController.cs*",
+              "RelativeToolTip": "GameCharactersAPI\\Controllers\\CharactersController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:27:59.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Program.cs",
+              "RelativeToolTip": "GameCharactersAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:22:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\Models\\Character.cs",
+              "RelativeToolTip": "GameCharactersAPI\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:26:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameCharactersAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\GameCharactersAPI.csproj",
+              "RelativeDocumentMoniker": "GameCharactersAPI\\GameCharactersAPI.csproj",
+              "ToolTip": "C:\\Users\\tdm_c\\source\\repos\\GameCharactersAPI\\GameCharactersAPI\\GameCharactersAPI.csproj",
+              "RelativeToolTip": "GameCharactersAPI\\GameCharactersAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T21:24:21.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
